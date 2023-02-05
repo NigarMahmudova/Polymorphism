@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\bin\Debug\netcoreapp3.1\Polymorphism task.exe
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\bin\Debug\netcoreapp3.1\Polymorphism task.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\bin\Debug\netcoreapp3.1\Polymorphism task.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\bin\Debug\netcoreapp3.1\Polymorphism task.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\bin\Debug\netcoreapp3.1\Polymorphism task.dll
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\bin\Debug\netcoreapp3.1\Polymorphism task.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\obj\Debug\netcoreapp3.1\Polymorphism task.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\obj\Debug\netcoreapp3.1\Polymorphism task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\obj\Debug\netcoreapp3.1\Polymorphism task.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\obj\Debug\netcoreapp3.1\Polymorphism task.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\obj\Debug\netcoreapp3.1\Polymorphism task.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\obj\Debug\netcoreapp3.1\Polymorphism task.dll
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\obj\Debug\netcoreapp3.1\Polymorphism task.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\11. 05022023\Polymorphism\Polymorphism task\obj\Debug\netcoreapp3.1\Polymorphism task.genruntimeconfig.cache
